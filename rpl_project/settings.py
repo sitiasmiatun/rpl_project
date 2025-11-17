@@ -29,7 +29,7 @@ SECRET_KEY = 'django-insecure-x!$+r%kcqb@sjz!7b)guzmgm81j9+%le$pg3s2crx6j9^17mck
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['*']  # atau nama domain render/railway Anda
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
